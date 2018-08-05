@@ -1,0 +1,11 @@
+# Archivos o patrones que se ingnoran en git
+
+# Archivos temporales
+*~
+tmp/
+.venv/
+
+# Python compile
+*.pyc
+*__pycache__
+
